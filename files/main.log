@@ -1,4 +1,8 @@
+<<<<<<< HEAD:files/main.log
 This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2019.3.24)  26 MAR 2019 09:16
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.11.4)  14 FEB 2019 16:59
+>>>>>>> 22c2e8df87b44af590b75794d7354e620bfa7f06:aux/main.log
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
